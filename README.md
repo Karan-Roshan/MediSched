@@ -67,15 +67,9 @@ This is a **front-end prototype**, designed to showcase the interface, layout, a
        width="500">
 </p>
 
-<p align="center">
+<p align="center" border="2px solid white">
   <img src="Project Screenshots/Providers Section.png" 
        alt="Providers Section" 
-       width="500">
-</p>
-
-<p align="center">
-  <img src="[Project Screenshots/App Software Link.png](https://github.com/Karan-Roshan/MediSched/blob/bb9dcb496a0be341d20566f9e8fe899f88f5f3e4/Project%20Screenshots/App%20Software%20Link.png)" 
-       alt="App Software link Section" 
        width="500">
 </p>
 
